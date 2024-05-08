@@ -3,9 +3,10 @@
 ### Codewars stat:
 ![codewars](https://www.codewars.com/users/It-Makes-No-Sense/badges/large)
 
+<!--
 ### LeetCode stats:
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=It-Makes-No-Sense)](https://github.com/It-Makes-No-Sense/github-readme)
-
+-->
 
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=It-Makes-No-Sense&theme=juicyfresh&no-bg=true)
