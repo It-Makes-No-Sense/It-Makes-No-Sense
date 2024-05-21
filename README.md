@@ -10,8 +10,9 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=It-Makes-No-Sense&theme=juicyfresh&no-bg=true)
-**It-Makes-No-Sense/It-Makes-No-Sense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
+**It-Makes-No-Sense/It-Makes-No-Sense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
