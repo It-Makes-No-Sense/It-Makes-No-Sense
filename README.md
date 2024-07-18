@@ -5,9 +5,7 @@
 
 
 ### LeetCode stats:
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=It-Makes-No-Sense)](https://github.com/It-Makes-No-Sense/github-readme)
-
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/It-Makes-No-Sense)
 
 ![](https://github-profile-trophy.vercel.app/?username=It-Makes-No-Sense&theme=juicyfresh&no-bg=true)
 
